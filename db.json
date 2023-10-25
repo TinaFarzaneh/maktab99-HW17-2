@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "lost",
+      "director": "Jeffrey Lieber",
+      "genre": "Drama",
+      "Release Year": 2004,
+      "description": "abcd1234"
+    },
+    {
+      "id": 2,
+      "title": "fall",
+      "director": "Scott Mann",
+      "genre": "Thriller",
+      "Release Year": 2022,
+      "description": "abcd1234"
+    },
+    {
+      "id": 3,
+      "title": "movie",
+      "director": "mary",
+      "genre": "Mysterious",
+      "Release Year": 2018,
+      "description": "abcd1234"
+    }
+  ]
+}
